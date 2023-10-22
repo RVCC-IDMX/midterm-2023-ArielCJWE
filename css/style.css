@@ -1,0 +1,18 @@
+body {
+    font-size: 20pt;
+background-color: grey;
+color: midnightblue;
+font-family: 'Ubuntu Mono', monospace;
+text-align: center;
+
+}
+h1, h2, h3, h4, h5, h6 {
+font-family: umboto, monospace;
+font-size: 50px;
+text-align: center;
+font-family: 'Playpen Sans', cursive;
+background-color: mintcream;
+border-style: dotted ;
+border-color: cornflowerblue;
+font-variant: small-caps;
+}
