@@ -1,18 +1,33 @@
+
+/* Editing the general look of the website*/
 body {
     font-size: 20pt;
 background-color: grey;
 color: midnightblue;
 font-family: 'Ubuntu Mono', monospace;
 text-align: center;
-
 }
+/* I wanted the headers to have a specific look to seperate it from the body paragraphs*/
 h1, h2, h3, h4, h5, h6 {
 font-family: umboto, monospace;
 font-size: 50px;
 text-align: center;
 font-family: 'Playpen Sans', cursive;
-background-color: mintcream;
+background-color: peachpuff;
 border-style: dotted ;
 border-color: cornflowerblue;
 font-variant: small-caps;
+}
+
+/* Specifically editing the Customer section by using the id name*/
+
+#customer {
+    background-color: darkslategrey;
+    font-variant: small-caps;
+    color: black;
+}
+
+/* Ensuring the image is centered*/
+img {
+align-items: center;
 }
